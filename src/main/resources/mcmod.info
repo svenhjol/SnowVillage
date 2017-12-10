@@ -1,0 +1,10 @@
+[{
+    "modid" : "snowvillage",
+	"name" : "SnowVillage",
+	"description" : "Adds villages to ice plains and cold taiga",
+	"version" : "${version}",
+	"mcversion": "${mcversion}",
+	"url" : "github.com/svenhjol/SnowVillage",
+	"credits": "Sven Hjól",
+	"authorList" : ["svenhjol"]
+}]
